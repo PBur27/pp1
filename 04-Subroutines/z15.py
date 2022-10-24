@@ -7,4 +7,3 @@ while True:
     if a == b:
         print('YOU WIN')
         break
-

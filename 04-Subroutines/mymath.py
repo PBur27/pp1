@@ -1,7 +1,7 @@
 import random
 
 def read_number():
-    a = input('Enter number')
+    a = input('Enter number: ')
     return int(a)
 
 def generate_number():
